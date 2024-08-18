@@ -1,6 +1,12 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 fashionMNIST/*
+.DS_Store
+.idea/
+SVM/.DS_Store
+Untitle.ipynb
+finalProject1/finding_donors.html
+ml-bugs.csv
 NaiveBayes/.DS_Store
 NaiveBayes/images/*
 finalProject1/.DS_Store
