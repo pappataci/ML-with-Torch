@@ -158,3 +158,34 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+.idea/misc.xml
+.idea/ML-with-Torch.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+fashionMNIST/*
+finalProject1/finding_donors.html
+finalProject1/submission.zip
+finalProject2/.DS_Store
+finalProject2/Archive.zip
+finalProject2/checkpoints/.DS_Store
+finalProject2/checkpoints/23-33-41-628273_bs_1024_lr0.000_wd0.000010Perf62.32.pth
+finalProject2/CIFAR10/.DS_Store
+finalProject2/CIFAR10/cifar-10-python.tar.gz
+finalProject2/CIFAR10/cifar-10-batches-py/batches.meta
+finalProject2/CIFAR10/cifar-10-batches-py/data_batch_1
+finalProject2/CIFAR10/cifar-10-batches-py/data_batch_2
+finalProject2/CIFAR10/cifar-10-batches-py/data_batch_3
+finalProject2/CIFAR10/cifar-10-batches-py/data_batch_4
+finalProject2/CIFAR10/cifar-10-batches-py/data_batch_5
+finalProject2/CIFAR10/cifar-10-batches-py/readme.html
+finalProject2/CIFAR10/cifar-10-batches-py/test_batch
+gridSearchlab/.DS_Store
+NaiveBayes/.DS_Store
+NaiveBayes/images/.DS_Store
+SVM/.DS_Store
+finalProject1/.DS_Store
+ml-bugs.csv
+scratchCNN.ipynb
